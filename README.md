@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Divya-Tank
 - 👀 I’m interested in Web development
 - My Skills
-- HTML5, CSS3, React.JS, Node.Js, MongoDB, Angular.Js, Bootstrap, Javascript, C, Java
+- HTML5, CSS3, React.JS, Node.Js, MongoDB, Angular.Js, Bootstrap, Javascript, C, Java, PHP.
 
 <!---
 Divya-Tank/Divya-Tank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
