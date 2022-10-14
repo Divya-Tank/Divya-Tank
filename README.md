@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Divya-Tank
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Java development and Web Development
 - My Skills
 - C | JAVA | DSA | HTML5 | CSS3 | React.JS | Node.Js | MongoDB | Angular.Js | Bootstrap | Javascript.
 <!---
