@@ -1,6 +1,6 @@
 # Hi there, I'm Divya Tank 👋
 
-Backend Software Engineer specializing in scalable, event-driven microservices, enterprise FinTech platforms, and distributed systems.
+Backend Software Engineer with 3.5+ YOE and specializing in scalable, event-driven microservices, enterprise FinTech platforms, and distributed systems.
 
 ---
 
